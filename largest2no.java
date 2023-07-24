@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class largestno {
+public class largest2no {
     public static void main(String[] args) {
         Scanner no = new Scanner(System.in);
         System.out.println("Enter the two integer no for find the largest number");
