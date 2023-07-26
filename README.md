@@ -1,6 +1,9 @@
 # JAVA Code
 ### This GitHub repository hosts a collection of well-organized and extensively commented Java code examples, covering various topics and best practices.
 "From basic syntax and data structures to advanced algorithms and design patterns, this repository is a valuable resource for Java developers of all levels. Whether you're a beginner seeking to learn Java or an experienced programmer looking to enhance your skills, explore the comprehensive codebase and contribute to the vibrant Java community."
+
+<img src="https://static.javatpoint.com/core/images/java-logo1.png" width="600"/>
+
 ### How to contribute
 1. Fork the repository
 2. Create a new branch for your changes (e.g. `git checkout -b my-new-feature`)
