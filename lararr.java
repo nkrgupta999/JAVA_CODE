@@ -8,7 +8,7 @@ public class lararr {
         for (int i = 0; i < arr.length; i++) {
             arr[i] = num.nextInt();
         }
-        System.out.println("Your elements in an array :");
+        System.out.println("Your Elements in an array :");
         for (int i = 0; i < arr.length; i++) {
             System.out.println(arr[i] + " ");
         }
