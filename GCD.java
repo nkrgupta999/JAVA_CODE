@@ -10,9 +10,9 @@ public class GCD {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.println("Enter the 1st number for finding the GCD ");
+        System.out.println("Enter the 1st number for find the GCD ");
         int a = sc.nextInt();
-        System.out.println("Enter the 2nd number for finding the GCD ");
+        System.out.println("Enter the 2nd number for find the GCD ");
         int b = sc.nextInt();
         sc.close();
         int gcd = findgcd(a, b);
