@@ -1,5 +1,5 @@
 import java.util.*;
-import java.text.*;
+// import java.text.*;
 
 public class date_con {
     public static void main(String[] args) {
@@ -13,7 +13,7 @@ public class date_con {
             if (min <= 60) {
                 System.out.println("Enter sec");
                 sec = dc.nextInt();
-                System.out.println("Your entered time is :- " + hour + ":" + min + ":" + sec);
+                System.out.println("Your Entered time is :- " + hour + ":" + min + ":" + sec);
             } else {
                 System.out.println("Enter the time in 12-hrs format");
             }
