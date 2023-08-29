@@ -26,8 +26,8 @@ https://linktr.ee/nkrgupta999
 
 ## MIT License
 
-[Copyright (c) 2023 Nitin Kumar Gupta](License)
+[Copyright (c) 2023 Nitin Kumar Gupta](LICENSE)
 
 
 ## Code of Conduct
-[Terms and Condition](Code_of_Conduct)
+[Terms and Conditions](Code_of_Conduct.md)
